@@ -2,7 +2,7 @@
 solving Classical Machine Learning methods Assignment 
 
 Solve all the problems using MATLAB or any other computer 
-language.
+language.  (i have used python)
 2. After calculating the best model given your data, review the given 
 data and you may remove any possible outliers (a value with a 
 possible error or high noise), then recalculate the model for cleaned 
